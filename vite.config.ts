@@ -5,7 +5,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/waqf-selah/',
+  // base: '/waqf-selah/',
   plugins: [
     TanStackRouterVite(),
     react(),
