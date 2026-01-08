@@ -87,11 +87,7 @@ function Index() {
                                 {/* Hero Artwork Box as per the screenshot */}
                                 <div className="bg-white p-12 lg:p-20 rounded-[40px] shadow-2xl shadow-slate-200 dark:shadow-none animate-float relative overflow-hidden">
                                     <div className="absolute top-0 right-0 w-32 h-32 bg-primary/5 rounded-full -mr-16 -mt-16"></div>
-                                    <img
-                                        alt="Hero Illustration"
-                                        className="w-full max-w-sm mx-auto transition-transform duration-700 hover:scale-110"
-                                        src="/1.png"
-                                    />
+
                                     <img
                                         alt="Hero Illustration"
                                         className="w-full max-w-sm mx-auto transition-transform duration-700 hover:scale-110"
