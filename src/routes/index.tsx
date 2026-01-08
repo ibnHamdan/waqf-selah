@@ -92,6 +92,11 @@ function Index() {
                                         className="w-full max-w-sm mx-auto transition-transform duration-700 hover:scale-110"
                                         src="/1.png"
                                     />
+                                    <img
+                                        alt="Hero Illustration"
+                                        className="w-full max-w-sm mx-auto transition-transform duration-700 hover:scale-110"
+                                        src="/waqf-selah/1.png"
+                                    />
                                 </div>
                             </div>
                         </div>
