@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #16978E;
+  --color-secondary: #D6A33E;
+  --color-dark: #0F3C32;
+  --color-light: #F8F9FA;
+  
+  --font-display: "Cairo", sans-serif;
+  --font-body: "Cairo", sans-serif;
+  
+  --background-image-islamic-pattern: url('https://www.transparenttextures.com/patterns/arabesque.png');
+}
